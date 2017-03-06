@@ -3,10 +3,10 @@
 
 Add dynamic Android 7 Shortcuts in your react native project.
 
-# Installing
+## Installing
 **TODO**
 
-# Example 
+## Example 
 
 ```js
 class aleator extends Component {
@@ -27,10 +27,10 @@ class aleator extends Component {
 [Image Demo here!]
 ```
 
-# Todo
-[ ] Improve code and make it testable
-[ ] Support to Icon
-[ ] Apply guideliness by android ([Shortcut Best Practices](https://developer.android.com/guide/topics/ui/shortcuts.html#best-practices))
-[ ] Add support to disable and enable shortcuts
-[ ] Add support to update shortcuts
+## Todo
+[] Improve code and make it testable
+[] Support to Icon
+[] Apply guideliness by android ([Shortcut Best Practices](https://developer.android.com/guide/topics/ui/shortcuts.html#best-practices))
+[] Add support to disable and enable shortcuts
+[] Add support to update shortcuts
 
