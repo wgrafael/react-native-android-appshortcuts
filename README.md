@@ -3,7 +3,9 @@
 
 Add dynamic Android 7 Shortcuts in your react native project.
 
-## Installing
+**Warning**: This a Preview Release and still in development.
+
+## Installing 
 **TODO**
 
 ## Example 
