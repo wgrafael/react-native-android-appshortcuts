@@ -28,9 +28,9 @@ class aleator extends Component {
 ```
 
 ## Todo
-[] Improve code and make it testable
-[] Support to Icon
-[] Apply guideliness by android ([Shortcut Best Practices](https://developer.android.com/guide/topics/ui/shortcuts.html#best-practices))
-[] Add support to disable and enable shortcuts
-[] Add support to update shortcuts
+- [ ] Improve code and make it testable
+- [ ] Support to Icon
+- [ ] Apply guideliness by android ([Shortcut Best Practices](https://developer.android.com/guide/topics/ui/shortcuts.html#best-practices))
+- [ ] Add support to disable and enable shortcuts
+- [ ] Add support to update shortcuts
 
