@@ -1,0 +1,21 @@
+{
+  "name": "react-native-android-appshortcuts",
+  "version": "0.0.1",
+  "description": "App shortcuts for react native in android 7.0",
+  "main": "appshortcuts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "app",
+    "shortcuts"
+  ],
+  "author": {
+    "name": "Rafael Dantas",
+    "email": "wgrafael@rafaeldantas.me",
+    "url": "rafaeldantas.me"
+  },
+  "license": "MIT"
+}
