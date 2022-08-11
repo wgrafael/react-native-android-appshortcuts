@@ -1,4 +1,4 @@
-# React Native Android Appshortcuts
+# [Discutinied] React Native Android Appshortcuts
 
 
 Add dynamic Android 7 Shortcuts in your react native project.
